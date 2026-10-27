@@ -1,0 +1,117 @@
+{
+  "code": "CHUGYE",
+  "title": "SMASH CHUGYE",
+  "school": "추계예대",
+  "fullName": "추계예술대학교",
+  "campusName": "추계예술대학교",
+  "tagline": "추계예대를 부셔 (시험기간 스트레스 해소)",
+  "description": "추계예술대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 추계예술대학교 3D 화면과 SMASH CHUGYE 제목",
+  "url": "https://hong-iron.github.io/SMASH-CHUGYE/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 1420691736
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "id": "way/403276845",
+      "n": "중앙여자고등학교",
+      "why": "학교 건물 아님 — 대학 캠퍼스 안내도에서 이 긴 건물 자리가 중앙여고로 표시되고 OSM 이름도 중앙여자고등학교라서, 건축물대장 소유 이름이 대학으로 적혀 있어도 대학 건물이 아니다."
+    },
+    {
+      "id": "way/1420691741",
+      "n": "추계초등학교",
+      "why": "학교 건물 아님 — 대학 캠퍼스 안내도에서 북쪽 끝의 이 건물은 추계초등학교로 따로 표시되고, 건축물대장에도 추계초등학교 동으로 올라 있다."
+    },
+    {
+      "id": "way/1420691740",
+      "n": "중앙여자중학교",
+      "why": "학교 건물 아님 — 대학 캠퍼스 안내도에서 남쪽 운동장 서쪽의 이 긴 건물은 중앙여중으로 표시되고 OSM 이름도 중앙여자중학교다."
+    },
+    {
+      "id": "way/1420691743",
+      "n": "4동 과학관",
+      "why": "학교 건물 아님 — 건축물대장 이름은 4동 과학관(1956년 사용승인)이지만, 대학 캠퍼스 안내도에서 중앙여고 건물의 북쪽 날개에 들어가고 대학 건물 목록에는 없다."
+    },
+    {
+      "at": [
+        37.5626544,
+        126.9527576
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 중앙여고 본관 남쪽 면에 붙은 작은 부속 건물로, 사용승인일(1974년 1월 11일)이 중앙여고 본관과 같다."
+    },
+    {
+      "at": [
+        37.5624068,
+        126.9523406
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 중앙여중 건물과 중앙여고 건물 사이 서쪽 담을 따라 붙은 좁은 부속 구조물로, 사용승인일이 중앙여중 자리 건물과 같다."
+    },
+    {
+      "at": [
+        37.5632925,
+        126.9539699
+      ],
+      "n": "13동선수대기실",
+      "why": "학교 건물 아님 — 테니스장 옆 선수대기실인데, 대학의 건물·시설 대여 목록에 테니스장이 없고 같은 주소의 중앙여고가 테니스부를 운영하므로 중앙여고 쪽 시설이다."
+    },
+    {
+      "at": [
+        37.5631281,
+        126.9541389
+      ],
+      "n": "7동 테니스장부속건물",
+      "why": "학교 건물 아님 — 테니스장에 딸린 부속 건물로, 대학의 건물·시설 대여 목록에 테니스장이 없고 같은 부지의 중앙여고가 테니스부를 운영하므로 중앙여고 쪽 시설이다."
+    }
+  ],
+  "look": {
+    "14동 창조관": {
+      "style": "stone",
+      "wall": "#dcdcdc",
+      "glass": "#606a76",
+      "frame": "#a3a9ae"
+    },
+    "1동 추계기념관": {
+      "style": "brick",
+      "wall": "#a35f44",
+      "glass": "#3e3a38",
+      "frame": "#e6dfd8"
+    },
+    "9동 지송관": {
+      "style": "brick",
+      "wall": "#836769",
+      "glass": "#3a3233",
+      "frame": "#664f51"
+    },
+    "11동 청사관": {
+      "style": "ribbon",
+      "wall": "#d2c9c8",
+      "glass": "#3e4442",
+      "frame": "#8a8b80"
+    },
+    "황신덕기념관": {
+      "style": "brick",
+      "wall": "#74494a",
+      "glass": "#4f5a6c",
+      "frame": "#cfcfcf"
+    },
+    "추정기념관": {
+      "style": "ribbon",
+      "wall": "#ddcdb8",
+      "glass": "#3d3e40",
+      "frame": "#75736f"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
